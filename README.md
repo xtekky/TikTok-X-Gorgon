@@ -1,3 +1,7 @@
+demo api:
+
+
+
 Access to all API's in tiktok versions < 20
 
 price: 100€
