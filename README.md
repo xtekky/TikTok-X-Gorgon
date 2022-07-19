@@ -1,4 +1,6 @@
-price: 300€
+Access to all API's in tiktok versions < 20
+
+price: 100€
 
 contact: https://t.me/xtekky
 
