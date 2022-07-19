@@ -1,3 +1,5 @@
+import requests
+
 gorgon = requests.post(
     url = 'https://xtekky.com/xgorgon/v2',
     data = {
@@ -6,4 +8,4 @@ gorgon = requests.post(
         "cookies": "sessid=xxxxx; odin-tt=xxxxx;"
     }
 ).json()
-print(gorgon.json())
+print(gorgon)
