@@ -7,7 +7,7 @@ demo api:
 ```json
 {
       "params": "userid=xxxx&version=9293&etc...",
-      "data": None, # POST data (urlencoded)
+      "data": none,
       "cookies": "sessid=xxxxx; odin-tt=xxxxx;"
 }
 ```
